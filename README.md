@@ -143,12 +143,6 @@ figure_output/
 - `figures.md`：Markdown 索引，适合人工快速检查
 - `figures.json`：结构化结果，适合后续程序处理
 
-## 上传 GitHub 前建议
-
-- 保留 `docs/screenshots/` 和 `docs/examples/`，方便别人快速理解项目效果
-- 运行产生的临时输出目录建议使用 `figure_output/` 或 `figure_output_gui/`，并通过 `.gitignore` 忽略
-- 不需要上传 `__pycache__/`、本地编辑器配置、临时文本文件等无关内容
-
 ## 说明
 
 - 当前项目聚焦于“从 PDF 中提取完整 figure + caption”
