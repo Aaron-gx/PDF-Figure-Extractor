@@ -1,0 +1,42 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Editor / IDE
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Project outputs
+build/
+dist/
+figure_output/
+figure_output_gui/
+figure_output_*/
+extracted/
+output/
+panels/
+panels_test/
+
+# Packaging artifacts
+*.spec
+*.exe
+*.pkg
+*.pyz
+*.toc
+*.manifest
+warn-*.txt
+xref-*.html
+*_portable*.bat
+*GUI*.bat
+
+# Logs
+*.log

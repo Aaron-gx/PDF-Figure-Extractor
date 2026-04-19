@@ -1,0 +1,254 @@
+[
+  {
+    "pdf": "paper_002.pdf",
+    "page": 2,
+    "figure_id": "1",
+    "caption": "Figure 1. Schematics of atomic structures of MoTe2 (a), Al-MoTe2 (b), Si-MoTe2 (c), P-MoTe2 (d), S-MoTe2 (e), and Cl-MoTe2 (f).",
+    "column": "full",
+    "source": "images",
+    "bbox": [
+      43.48,
+      52.43,
+      563.48,
+      418.57
+    ],
+    "figure_bbox": [
+      43.48,
+      52.43,
+      563.48,
+      398.16
+    ],
+    "caption_bbox": [
+      51.48,
+      399.72,
+      528.01,
+      410.57
+    ],
+    "image": "docs\\examples\\paper_002\\images\\page_002_figure_1_1.png",
+    "image_relpath": "images/page_002_figure_1_1.png"
+  },
+  {
+    "pdf": "paper_002.pdf",
+    "page": 3,
+    "figure_id": "2",
+    "caption": "Figure 2. Löwdin orbital population of a free atom and after doping. Only valence electrons are taken into account.",
+    "column": "full",
+    "source": "drawings",
+    "bbox": [
+      43.46,
+      68.45,
+      607.41,
+      515.51
+    ],
+    "figure_bbox": [
+      43.46,
+      68.45,
+      607.41,
+      489.46
+    ],
+    "caption_bbox": [
+      315.44,
+      487.62,
+      555.47,
+      507.51
+    ],
+    "image": "docs\\examples\\paper_002\\images\\page_003_figure_2_1.png",
+    "image_relpath": "images/page_003_figure_2_1.png"
+  },
+  {
+    "pdf": "paper_002.pdf",
+    "page": 4,
+    "figure_id": "3",
+    "caption": "Figure 3. DOS contours of (a) MoTe2, (b) Al-MoTe2, (c) Si-MoTe2, (d) P-MoTe2, (e) S-MoTe2, and (f) Cl-MoTe2. Gray contours represent the total DOS, while red and green the partial DOS of p and s orbitals of X. The values of partial DOS have been multiplied by a factor of 5 to highlight the distribution of impurity states.",
+    "column": "right",
+    "source": "images",
+    "bbox": [
+      307.44,
+      52.43,
+      563.48,
+      693.19
+    ],
+    "figure_bbox": [
+      307.44,
+      52.43,
+      563.42,
+      634.57
+    ],
+    "caption_bbox": [
+      315.44,
+      636.13,
+      555.48,
+      685.19
+    ],
+    "image": "docs\\examples\\paper_002\\images\\page_004_figure_3_1.png",
+    "image_relpath": "images/page_004_figure_3_1.png"
+  },
+  {
+    "pdf": "paper_002.pdf",
+    "page": 6,
+    "figure_id": "4",
+    "caption": "Figure 4. Schematics of optimized structures of CO on (a) MoTe2 (horiz-C), (b) MoTe2 (horiz-O), (c) MoTe2 (vert-C), (d) Al-MoTe2 (horiz-C), (e) Al-MoTe2 (vert-C), (f) Si-MoTe2 (horiz-C), (g) Si-MoTe2 (vert-C), (h) P-MoTe2 (horiz-C), (i) P-MoTe2 (vert-O), (j) S-MoTe2 (horiz-C), (k) S-MoTe2 (vert-C), (l) Cl-MoTe2 (horiz-C), and (m) Cl-MoTe2 (vert-C).",
+    "column": "full",
+    "source": "images",
+    "bbox": [
+      43.48,
+      63.22,
+      563.45,
+      485.98
+    ],
+    "figure_bbox": [
+      44.44,
+      63.22,
+      562.46,
+      445.65
+    ],
+    "caption_bbox": [
+      51.48,
+      447.18,
+      555.45,
+      477.98
+    ],
+    "image": "docs\\examples\\paper_002\\images\\page_006_figure_4_1.png",
+    "image_relpath": "images/page_006_figure_4_1.png"
+  },
+  {
+    "pdf": "paper_002.pdf",
+    "page": 7,
+    "figure_id": "5",
+    "caption": "Figure 5. DOS contours of (a,b) MoTe2, (c,d) Al-MoTe2, (e,f) Si- MoTe2, (g,h) P-MoTe2, (i,j) S-MoTe2, and (k,l) Cl-MoTe2. Left- hand-side ﬁgures represent preadsorption DOS, while the right-hand- side ﬁgures are the DOS post-CO adsorption (the lowest energy conﬁguration). Gray contours represent the total DOS, while red and green the partial DOS of p and s orbitals of X.",
+    "column": "right",
+    "source": "images",
+    "bbox": [
+      307.44,
+      52.44,
+      563.48,
+      694.27
+    ],
+    "figure_bbox": [
+      307.44,
+      52.44,
+      563.42,
+      625.67
+    ],
+    "caption_bbox": [
+      315.44,
+      627.23,
+      555.48,
+      686.27
+    ],
+    "image": "docs\\examples\\paper_002\\images\\page_007_figure_5_1.png",
+    "image_relpath": "images/page_007_figure_5_1.png"
+  },
+  {
+    "pdf": "paper_002.pdf",
+    "page": 8,
+    "figure_id": "6",
+    "caption": "Figure 6. Schematics of optimized structures of CO2 on (a) MoTe2 (horiz-C), (b) MoTe2 (horiz-O), (c) MoTe2 (vert-O), (d) Al-MoTe2 (horiz-C), (e) Al-MoTe2 (horiz-O), (f) Al-MoTe2 (vert-O), (g) Si- MoTe2 (horiz-C), (h) Si-MoTe2 (horiz-O), (i) Si-MoTe2 (vert-O), (j) P-MoTe2 (horiz-O), (k) S-MoTe2 (horiz-O), and (l) Cl-MoTe2 (horiz-O).",
+    "column": "right",
+    "source": "images",
+    "bbox": [
+      307.44,
+      302.89,
+      563.47,
+      603.16
+    ],
+    "figure_bbox": [
+      307.77,
+      302.89,
+      563.11,
+      489.18
+    ],
+    "caption_bbox": [
+      315.44,
+      536.13,
+      555.47,
+      595.16
+    ],
+    "image": "docs\\examples\\paper_002\\images\\page_008_figure_6_1.png",
+    "image_relpath": "images/page_008_figure_6_1.png"
+  },
+  {
+    "pdf": "paper_002.pdf",
+    "page": 9,
+    "figure_id": "7",
+    "caption": "Figure 7. Average and maximum values of charge accumulation in CO (a) and CO2 (b) upon adsorption on pristine and doped MoTe2.",
+    "column": "right",
+    "source": "drawings",
+    "bbox": [
+      307.44,
+      52.43,
+      563.44,
+      474.18
+    ],
+    "figure_bbox": [
+      307.89,
+      52.43,
+      562.89,
+      443.82
+    ],
+    "caption_bbox": [
+      315.44,
+      445.36,
+      555.44,
+      466.18
+    ],
+    "image": "docs\\examples\\paper_002\\images\\page_009_figure_7_1.png",
+    "image_relpath": "images/page_009_figure_7_1.png"
+  },
+  {
+    "pdf": "paper_002.pdf",
+    "page": 10,
+    "figure_id": "8",
+    "caption": "Figure 8. Changes in total electron density after CO adsorbs on P- MoTe2. Areas in blue (red) indicate regions of electron depletion (accumulation). The isovalue cutoﬀs are 0.001 (a) and 0.0005 e/au3",
+    "column": "left",
+    "source": "raster",
+    "bbox": [
+      0.0,
+      264.67,
+      311.7,
+      388.58
+    ],
+    "figure_bbox": [
+      0.0,
+      264.67,
+      319.7,
+      349.82
+    ],
+    "caption_bbox": [
+      51.48,
+      351.53,
+      291.46,
+      380.58
+    ],
+    "image": "docs\\examples\\paper_002\\images\\page_010_figure_8_2.png",
+    "image_relpath": "images/page_010_figure_8_2.png"
+  },
+  {
+    "pdf": "paper_002.pdf",
+    "page": 10,
+    "figure_id": "9",
+    "caption": "Figure 9. Variation of total energy during molecular dynamics simulation of CO@P-MoTe2.",
+    "column": "right",
+    "source": "images",
+    "bbox": [
+      307.44,
+      118.94,
+      563.45,
+      271.74
+    ],
+    "figure_bbox": [
+      327.51,
+      118.94,
+      543.41,
+      242.2
+    ],
+    "caption_bbox": [
+      315.44,
+      243.76,
+      555.45,
+      263.74
+    ],
+    "image": "docs\\examples\\paper_002\\images\\page_010_figure_9_1.png",
+    "image_relpath": "images/page_010_figure_9_1.png"
+  }
+]
